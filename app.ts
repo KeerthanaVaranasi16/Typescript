@@ -18,6 +18,7 @@ class College {
 let clg = new College("SVECW");
 console.log(clg.clgName);
 console.log(clg.wish());
+console.log('j');
 
 
 // let arr1: number[]=[1,2,3]
